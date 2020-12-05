@@ -1,5 +1,5 @@
 {
-  "name": "myreact",
+  "name": "@vlad-tymoshchyk/react",
   "version": "2.0.0",
   "description": "> TODO: description",
   "author": "Vlad Tymoshchyk <vtymoshchyk@gmail.com>",
@@ -15,5 +15,6 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\""
-  }
+  },
+  "gitHead": "1f96339c3f428267d60aad2dfd7aa1a45cf5b47a"
 }
