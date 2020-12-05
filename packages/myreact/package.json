@@ -1,0 +1,19 @@
+{
+  "name": "myreact",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Vlad Tymoshchyk <vtymoshchyk@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/myreact.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\""
+  }
+}
