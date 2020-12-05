@@ -3,5 +3,5 @@
 module.exports = myreact;
 
 function myreact() {
-    // TODO
+    console.log('This is update');
 }
